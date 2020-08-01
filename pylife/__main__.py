@@ -1,0 +1,3 @@
+import pylife
+
+pylife.main()
